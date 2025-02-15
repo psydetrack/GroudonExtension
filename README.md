@@ -1,2 +1,2 @@
 # GroudonExtension
-This is a rom patch that changes mon's sprites, stats and cries to that of Primal Groudon.
+Rom patch and tracker extension for Groudon Extension
